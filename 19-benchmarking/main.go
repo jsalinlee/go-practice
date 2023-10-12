@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(saying.Greet("James"))
+	fmt.Println(saying.Greet("Bond"))
 }
